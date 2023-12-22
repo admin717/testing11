@@ -1,0 +1,2 @@
+add some data in to f.txt
+thank you
